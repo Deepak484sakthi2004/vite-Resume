@@ -64,7 +64,7 @@ MariaDB [JobApplicants]>  SELECT cp.title, cp.description AS url FROM CandidateP
 
   const totalCandidatesData = [{ TotalCandidates: 987654321 }];
   const candidatesData = [
-    { applicant_id: 'Chin Tapak Dum Dum', candidate_name: 'DEEPAKSAKTHI VELLORE KUMAR', contact: '+91 9787558677', email: 'deepak2004sakthi@gmail.com', location: 'Chennai, India' }
+    { applicant_id: 'Chin Tapak Dum Dum', candidate_name: 'DEEPAKSAKTHI VELLORE KUMAR', contact: '+91 ****55**77', email: 'deepak2004sakthi@gmail.com', location: 'Chennai, India' }
   ];
   const educationData = [
     { InstitutionName: 'sri chaitanya techno school', city: 'Bangalore', country: 'India', discipline: 'Math', type: 'High School', start: '07/2019', end: '05/2021', grade: '93.8%' },
